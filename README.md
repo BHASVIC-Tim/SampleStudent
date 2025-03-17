@@ -17,7 +17,7 @@ I hope to become a professional programmer in the games industry, probably after
 ## My college Repos
 
 - C classwork  
-- Hotel Kashyyyk group
+- Hotel Kashyyyk group project  
 - Java classwork
 
 ## My personal Repos
