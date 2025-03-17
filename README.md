@@ -23,13 +23,13 @@ In my personal time I am exploring Unity tutorials as I am interested in games d
 # My Repros
 ## My college Repos
 
-- C classwork  
-- Hotel Kashyyyk group project  
-- Java classwork
+- [C classwork](https://github.com/BHASVIC-Tim/CTasks)  
+- [Hotel Kashyyyk](https://github.com/BHASVIC-Tim/Kashyyyk) group project  
+- [Java classwork](https://github.com/BHASVIC-Tim/JavaClaswork)
 
 ## My personal Repos
 
-- Advent of Code 2024
+- [Advent of Code 2023](https://github.com/BHASVIC-Tim/AdventOfCode2023)
   
 
 
